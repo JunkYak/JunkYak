@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Ishan 👋<br/><sub><sup><code>ishan@junkyak</code> · India</sup></sub></h1>
 
 <p align="center">
-  <img src="https://leetcode-stats-six.vercel.app/?username=YOUR_LEETCODE_USERNAME&theme=dark" width="820" alt="LeetCode statistics and problem-solving progress"/>
+  <img src="https://leetcode-stats-six.vercel.app/?username=JunkYak&theme=dark" width="820" alt="LeetCode statistics and problem-solving progress"/>
 </p>
 
 <p align="center">

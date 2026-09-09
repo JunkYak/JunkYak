@@ -9,26 +9,25 @@
 </p>
 
 <p align="center">
-  <img
-    src="./assets/profile-card.svg"
-    width="820"
-    alt="Ishan's developer profile card"
-  />
+  <img src="./assets/profile-card.svg" width="820" alt="Ishan's developer profile card" />
 </p>
 
 <p align="center">
-  <img
-    src="https://leetcard.jacoblin.cool/JunkYak?ext=heatmap"
-    width="820"
-    alt="LeetCode statistics and submission heatmap"
-  />
+  <img src="https://leetcard.jacoblin.cool/JunkYak?ext=heatmap" width="820" alt="LeetCode statistics and submission heatmap" />
+</p>
+
+<p align="center">
+  <img src="https://www.nowcard.store/api/card/junkyak" width="820" alt="Ishan's current music and status card" />
 </p>
 
 <details>
   <summary><sub>· · ·</sub></summary>
-
   <p align="center">
     <sub>you found the fine print.</sub>
   </p>
-
 </details>
+
+<p align="center">
+  <br/>
+  <img src="./assets/pet.svg" width="180" alt="A small terminal-style companion pet" />
+</p>

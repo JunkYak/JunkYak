@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="320">
+    <style>
+        .bg { fill: #0d1117; stroke: #30363d; stroke-width: 1px; rx: 6px; }
+        .text { font-family: ui-monospace, SFMono-Regular, Consolas, "Liberation Mono", Menlo, monospace; }
+        .logo { font-size: 10px; fill: #8b949e; letter-spacing: 0.5px; }
+        .title { font-size: 16px; font-weight: bold; fill: #c9d1d9; }
+        .label { font-size: 14px; fill: #8b949e; text-anchor: end; }
+        .value { font-size: 14px; fill: #c9d1d9; }
+        .separator { fill: #30363d; }
+    </style>
+    <rect width="818" height="318" x="1" y="1" class="bg" />
+    
+    <!-- Logo -->
+    <text x="30" y="50" class="text logo" xml:space="preserve">
+        <tspan x="30" dy="1.2em">;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;</tspan>
+        <tspan x="30" dy="1.2em">;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;</tspan>
+        <tspan x="30" dy="1.2em">;;;;;;;;;;;;;;;;;;i$$$$$$$$$$$$$$$$$$$$$$$$I;;;;;;;;;;;;;;;;;;;;;;;;;;</tspan>
+        <tspan x="30" dy="1.2em">;;;;;;;;;;;;;;;;;;;;;;;;;;;;L$$;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;</tspan>
+        <tspan x="30" dy="1.2em">;;;;;;;;;;;;;;;;;;;;;;;;;;;;w$$;;;;;-$#i;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;</tspan>
+        <tspan x="30" dy="1.2em">;;;;;;;;;;;;;;;;;;;;;;;;;;;;p$$;;I$$$o;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;</tspan>
+        <tspan x="30" dy="1.2em">;;;;;;;;;;;;;;;;;;;;;;;;;;;;p$$$$$p;;;;;;;;(;;;;;;;;;;;;;;;;;;;;;;;;;;</tspan>
+        <tspan x="30" dy="1.2em">;;;;;;;;;;;;;;;;;;;;;;;;;;;;p$$n%$$;;;;;;;@$$;;;;;;;;;;;;;;;;;;;;;;;;;</tspan>
+        <tspan x="30" dy="1.2em">;;;;;;;;;;;;;;;;;;;;p;;;;;;;p$$;;;%$$i;;;$$/;;;;;;;;;;;;;;;;;;;;;;;;;;</tspan>
+        <tspan x="30" dy="1.2em">;;;;;;;;;;;;;;;;;;;;-$h;;;;;p$@;;;;;$$$q$$;;;;;;;;;;;;;;;;;;;;;;;;;;;;</tspan>
+        <tspan x="30" dy="1.2em">;;;;;;;;;;;;;;;;;;;;;&lt;$$&amp;;;;p$@;;;;;;;$$1&gt;;;;;;;;;;;;;;;;;;;;;;;;;;;</tspan>
+        <tspan x="30" dy="1.2em">;;;;;;;;;;;;;;;;;;;;;;;!$$h;p$B;;;;;I$$II;;;;;;;;;;;;;;;;;;;;;;;;;;;;;</tspan>
+        <tspan x="30" dy="1.2em">;;;;;;;;;;;;;;;;;;;;;;;;;;$$$$B;;;;k$$;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;</tspan>
+        <tspan x="30" dy="1.2em">;;;;;;;;;;;;;;;;;;;;;;;;;;;I$$%;;;$$I;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;</tspan>
+        <tspan x="30" dy="1.2em">;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;%;{$Q;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;</tspan>
+        <tspan x="30" dy="1.2em">;;;;;;;;;;;;;;I;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;</tspan>
+    </text>
+
+    <!-- Content -->
+    <text x="440" y="60" class="text title">ishan@junkyak</text>
+    
+    <g class="text" transform="translate(440, 110)">
+        <text x="0" y="0" class="label">role</text>
+        <text x="25" y="0" class="value">developer</text>
+        
+        <text x="0" y="30" class="label">focus</text>
+        <text x="25" y="30" class="value">AI · backend · automation</text>
+        
+        <text x="0" y="60" class="label">languages</text>
+        <text x="25" y="60" class="value">Python · SQL · Java</text>
+        
+        <text x="0" y="90" class="label">backend</text>
+        <text x="25" y="90" class="value">FastAPI · REST · SQLAlchemy</text>
+        
+        <text x="0" y="120" class="label">AI</text>
+        <text x="25" y="120" class="value">RAG · LLMs · agents</text>
+        
+        <text x="0" y="150" class="label">cloud</text>
+        <text x="25" y="150" class="value">Azure · AWS</text>
+    </g>
+</svg>

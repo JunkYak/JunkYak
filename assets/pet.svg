@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="80">
+    <style>
+        .text { font-family: ui-monospace, SFMono-Regular, Consolas, "Liberation Mono", Menlo, monospace; font-size: 14px; fill: #8b949e; text-anchor: middle; }
+    </style>
+    <text x="90" y="20" class="text" xml:space="preserve">
+        <tspan x="90" dy="1.2em">╭───╮</tspan>
+        <tspan x="90" dy="1.2em">│o o│</tspan>
+        <tspan x="90" dy="1.2em">╰─┬─╯</tspan>
+        <tspan x="90" dy="1.2em"> ╝ ╚ </tspan>
+    </text>
+</svg>

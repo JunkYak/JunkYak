@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hey, I'm Ishan 👋<br/>
+  Hey, I'm Ishan <br/>
   <sub><sup><code>ishan@junkyak</code> · India</sup></sub>
 </h1>
 

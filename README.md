@@ -28,5 +28,5 @@
 <br/>
 
 <p align="center">
-  <img src="./assets/pet.svg" width="100" alt="A small terminal-style companion cat" />
+  <img src="./assets/vicario.svg" width="100" alt="A small terminal-style companion cat" />
 </p>

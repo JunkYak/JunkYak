@@ -24,10 +24,9 @@
     <sub>you found the fine print.</sub>
   </p>
 </details>
-
-<img src="https://media.giphy.com/media/PBqvYJ7ZBhwwDfzWDr/giphy.gif" width="120px" />
+<p align="center">
+  <img src="https://media.giphy.com/media/PBqvYJ7ZBhwwDfzWDr/giphy.gif" width="120px" />
 <br/>
 
-<p align="center">
-  <img src="./assets/vicario.svg" width="100" alt="A small terminal-style companion cat" />
-</p>
+
+  

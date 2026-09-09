@@ -13,11 +13,9 @@
 </p>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/JunkYak?ext=heatmap" width="820" alt="LeetCode statistics and submission heatmap" />
-</p>
-
-<p align="center">
-  <img src="https://www.nowcard.store/api/card/junkyak" width="820" alt="Ishan's current music and status card" />
+  <img src="https://leetcard.jacoblin.cool/JunkYak?ext=heatmap" width="390" alt="LeetCode statistics and submission heatmap" />
+  &nbsp;&nbsp;
+  <img src="https://www.nowcard.store/api/card/junkyak" width="390" alt="Ishan's current music and status card" />
 </p>
 
 <details>
@@ -27,7 +25,8 @@
   </p>
 </details>
 
+<br/>
+
 <p align="center">
-  <br/>
-  <img src="./assets/pet.svg" width="180" alt="A small terminal-style companion pet" />
+  <img src="./assets/pet.svg" width="100" alt="A small terminal-style companion cat" />
 </p>

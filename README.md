@@ -4,8 +4,7 @@
 </h1>
 
 <p align="center">
-  I build AI, backend, and automation systems,<br/>
-  turning complex workflows into useful software.
+ I enjoy automating repetitive tasks and streamlining workflows, and I actively look for tedious problems that can be turned into simpler, more efficient systems. My background started with ML and RAG, and has expanded into backend engineering, AI systems, cloud systems, and agentic workflows.
 </p>
 
 <p align="center">
